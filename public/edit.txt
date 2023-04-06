@@ -1,0 +1,71 @@
+<div class="card">
+	<p>Aulas síncronas puramente teóricas, em que alguns professores não traziam a tona muito a parte prática do conteúdo, o que acabava resultando em dúvidas durante resolução de atividades.</p>
+</div>
+<div class="card">
+	<p>1 hora de aula seguida</p>
+</div>
+<div class="card">
+	<p>Curtos períodos de resposta das atividades </p>
+</div>
+<div class="card">
+	<p>Aulas onlline no geral.</p>
+</div>
+<div class="card">
+	<p>Nenhuma.</p>
+</div>
+<div class="card">
+	<p>textos que na maioria eram muito grandes</p>
+</div>
+<div class="card">
+	<p>Trabalhos</p>
+</div>
+<div class="card">
+	<p>Muito material para ler e assistir </p>
+</div>
+<div class="card">
+	<p>aulas online</p>
+</div>
+<div class="card">
+	<p>Ir as aulas</p>
+</div>
+<div class="card">
+	<p>A aula prática de forma online, assim, tendo limitação sobre o entendimento dos equipamentos utilizados.</p>
+</div>
+<div class="card">
+	<p>Kahoot</p>
+</div>
+Não sei responder.
+<div class="card">
+	<p>A maioria</p>
+</div>
+<div class="card">
+	<p>O Google Classroom </p>
+</div>
+Não tive.
+<div class="card">
+	<p>Uso da ferramenta "Zoom".</p>
+</div>
+<div class="card">
+	<p>atenção nas aulas (deficit de atenção)</p>
+</div>
+<div class="card">
+	<p>Sobrecarga por conta dos conteúdos e aulas.</p>
+</div>
+<div class="card">
+	<p>Textos AAAAAA</p>
+</div>
+<div class="card">
+	<p>Utilização do kahoot</p>
+</div>
+<div class="card">
+	<p>não teve AAA</p>
+</div>
+<div class="card">
+	<p>Avaliações (ou provas) on-line.</p>
+</div>
+<div class="card">
+	<p>Avaliações com tempo durante o ensino remoto.</p>
+</div>
+<div class="card">
+	<p>O uso de vídeos para a conclusão das atividades. O tempo no ensino remoto não contribuía para assistir a todos os vídeos (que por sinal eram enviados diversos, chegava até ser cansativo olhar metade do conteúdo postado)</p>
+</div>
